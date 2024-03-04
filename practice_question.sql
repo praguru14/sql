@@ -1,0 +1,21 @@
+-- Absolutely! Here are some SQL interview questions for you to practice:
+  --   Retrieve all columns from the Employee table.
+--     List all orders along with the customer names.
+--     Show the product name and price for each order.
+--     Display the student names along with their grades.
+--     Find the average salary of all employees.
+--     Calculate the total number of orders.
+--     Determine the highest and lowest grades in the Grades table.
+--     Find the employees whose salary is above the average salary.
+--     Identify the orders made by customers named "John".
+--     Insert a new employee into the Employee table.
+--     Update the price of the product with product_id equal to 3.
+--     Delete a specific order from the Orders table.
+--     Add a constraint to ensure that the emp_salary column in the Employee table does not accept negative values.
+--     Create an index on the customer_id column in the ord table.
+--     Retrieve the top 3 highest-paid employees.
+--     Find the total sales amount for each customer.
+--     Show the average grade for each student.
+--     Retrieve the orders made in March 2023.
+--     List the products whose price is greater than $500.
+--     Display the names of customers who have not placed any orders.
